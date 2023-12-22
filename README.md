@@ -1,7 +1,5 @@
 # Shopping Behavior Data Analytics
 
-Replace all template text `[]` with your own words. Be sure that there is no template text in your `README.md` file before pushing.
-
 I'm a junior data analyst at a fast-growing online shopping company headquartered in Bengaluru, India, FlashFash.  To get an understanding of the American market, my team has been tasked with analyzing the shopping behavior of consumers.
 My job will entail analyzing a sample dataset for aggregate descriptive statistics and visualizations on American consumers. We are interested in discovering the "seasonality" of shoppers, which demographics buy the most, and which market outreach strategies we can apply to maximize purchases.
 
